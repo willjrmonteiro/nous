@@ -1,0 +1,11 @@
+{
+  "name": "nous",
+  "version": "1.0.0",
+  "description": "Just Nous",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "William Jr",
+  "license": "ISC"
+}
